@@ -1,2 +1,38 @@
-# Amanda-s-Portfolio2
-Portfolio
+# CS105/6/7/8 Portfolio
+# Amanda Flores Gonzalez
+## Portfolio
+Contact Info: avfloresgonzalez@loyola.edu
+## About Me 
+Hello! I am a student at Loyola University Maryland studying Political Science. I am building skills in Excel, Python, and data analysis through hands-on projects.
+
+I enjoy solving real-world problems, such as creating tools to track grades and developing interactive programs. I am familiar with Microsoft Excel, PyCharm, and Microsoft Outlook.
+
+I am motivated to continue learning and improving my technical skills. In my spare time, I like to spend time with my family and make pottery.
+
+
+### Education 
+Freshman Student majoring in Political Science
+Loyola University Maryland
+
+***
+## Projects
+
+## Weekly Schedule Calender
+
+ - Project 1 Summary: Created a weekly calendar using Microsoft Outlook with a color-coded system to organize classes and events.
+ - [insert project 1 screenshot here]
+ - Project 1 Report: I created a weekly calendar to organize my schedule and improve time management. I used Microsoft Outlook and designed a color-coding system to clearly separate classes and events. A challenge was choosing an effective color system, which I solved by assigning consistent colors to each class. No additional resources were used for this project. The final result is a clear and organized schedule, and I would expand it by adding more events and reminders.
+
+***
+## Grade Calculator (Excel)
+ - Project 2 Summary: Built an Excel-based grade calculator to track and predict final grades using weighted categories and formulas.
+ - [insert project 2 screenshot here]
+ - Project 2 Report: I created a grade calculator to solve the problem of tracking and predicting final grades across multiple classes. I used Microsoft Excel with formulas and conditional formatting to automate calculations and display letter grades. One challenge I faced was setting up the formulas correctly, which I solved by testing and adjusting them. I used class materials and online resources to guide me. The final result was a working tool that updates grades automatically, and in the future I would improve the design and add more features.
+
+***
+##  Personality Test Application (Python)
+
+ - Project 3 Summary: Developed an interactive Python application that assigns users a personality type based on their responses.
+ - [insert project 3 screenshot here]
+ - Project 3 Report: I developed a personality test application to simulate how quizzes assign personality types based on user responses. I used Python in PyCharm and implemented loops, conditionals, and a scoring system. A challenge I faced was handling invalid user input, which I solved using input validation and loops. I used class notes and examples to help guide my coding. The final program successfully assigns personality types, and I would improve it by adding more questions and enhancing the interface.
+

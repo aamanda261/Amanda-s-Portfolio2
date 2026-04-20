@@ -27,7 +27,7 @@ Loyola University Maryland
 ***
 ## Grade Calculator (Excel)
 
-![Link to Project](https://studentsloyola-my.sharepoint.com/:x:/g/personal/avfloresgonzalez_loyola_edu/IQC9J-zgDCe4Sr871qBtUpa2AdX54NesaKnde4seMEWBpxo?e=8gaeSC)
+[Link to Project](https://studentsloyola-my.sharepoint.com/:x:/g/personal/avfloresgonzalez_loyola_edu/IQC9J-zgDCe4Sr871qBtUpa2AdX54NesaKnde4seMEWBpxo?e=8gaeSC)
 
 ![Screenshot of Grade Calculator](pictures/Grade  Calculator.png)
  - Project 2 Summary: Built an Excel-based grade calculator to track and predict final grades using weighted categories and formulas.

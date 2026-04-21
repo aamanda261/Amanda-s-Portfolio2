@@ -1,5 +1,5 @@
 title: Amanda Flores
-logo: <img src="pictures/profilepicture.png" width="200">
+logo: /pictures/profilepicture.png
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-merlot
+theme: jekyll-theme-slate

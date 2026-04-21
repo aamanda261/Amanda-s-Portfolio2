@@ -1,4 +1,7 @@
 # CS105/6/7/8 Portfolio
+
+<img src="pictures/profilepicture.png" width="200" alt="Profile picture">
+
 # Amanda Flores
 ## Portfolio
 Contact Info: avfloresgonzalez@loyola.edu

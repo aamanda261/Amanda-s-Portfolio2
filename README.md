@@ -18,6 +18,7 @@ Loyola University Maryland
 ## Projects
 
 ## Weekly Schedule Calender
+[Link to Project](https://outlook.office.com/calendar/view/workweek)
 
 ![Screenshot of Calender](pictures/Screenshot 2026-01-15 145807.png)
 
@@ -34,6 +35,8 @@ Loyola University Maryland
 
 ***
 ##  Personality Test Application (Python)
+
+[Link to Project](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-aamanda261/blob/main/Personality%20Test.py)
 
 ![Screenshot of Personality Test](pictures/Personality Test.png)
 

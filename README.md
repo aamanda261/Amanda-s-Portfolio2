@@ -43,5 +43,5 @@ Loyola University Maryland
 
 ![Screenshot of Personality Test](pictures/Personality Test.png)
 
- - Project 3 Report: I developed a personality test to simulate how quizzes assign personality types based on user responses. I used Python in PyCharm and implemented loops, conditionals, and a scoring system. A challenge I faced was handling invalid user input, which I solved using input validation and loops. I used class notes and examples to help guide my coding. The final program successfully assigns personality types, and I would improve it by adding more questions and enhancing the interface.
+ - I developed a personality test to simulate how quizzes assign personality types based on user responses. I used Python in PyCharm and implemented loops, conditionals, and a scoring system. A challenge I faced was handling invalid user input, which I solved using input validation and loops. I used class notes and examples to help guide my coding. The final program successfully assigns personality types, and I would improve it by adding more questions and enhancing the interface.
 
